@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Area Wise Sales Report extension allows admin to add Pin Codes and Areas from admin interface and get the report of total sale in particular area.
