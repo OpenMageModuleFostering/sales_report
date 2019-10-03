@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Sales_Report",
+    "name": "OpenMageModuleFostering\/Sales_Report",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)-",
     "homepage": "",
     "description": "Area Wise Sales Report extension allows admin to add Pin Codes and Areas from admin interface and get the report of total sale in particular area.",
     "authors": [
-    {
-        "name": "Manthan",
-        "email": "manthan18121989@gmail.com"
-    }
-],
+        {
+            "name": "Manthan",
+            "email": "manthan18121989@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
